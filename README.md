@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShashashankThakur
 - 👀 I’m interested in low-level engineering
 - 🌱 I’m currently learning about encryption
-- 💞️ I’m looking to collaborate on cool projects
+- 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me:
   - [@shashashankthakur](https://www.instagram.com/shashashankthakur/]) on Instagram
   - u22cs060@coed.svnit.ac.in on Email
