@@ -2,9 +2,7 @@
 - 👀 I’m interested in low-level engineering
 - 🌱 I’m currently learning about encryption
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me:
-  - [LinkedIn](www.linkedin.com/in/shashashank)
-  - [Instagram](https://www.instagram.com/shashashankthakur/)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/shashashank) and [Instagram](https://www.instagram.com/shashashankthakur/)
 
 <!-- Holopin Profile
 [![An image of @shashashankthakur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashashankthakur)](https://holopin.io/@shashashankthakur)
