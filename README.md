@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning about encryption
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me:
-  - [@shashashankthakur](https://www.instagram.com/shashashankthakur/]) on Instagram
-  - u22cs060@coed.svnit.ac.in on Email
+  - [LinkedIn](www.linkedin.com/in/shashashank)
+  - [Instagram](https://www.instagram.com/shashashankthakur/)
+  - [Email](u22cs060@coed.svnit.ac.in)
 
 <!-- Holopin Profile
 [![An image of @shashashankthakur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashashankthakur)](https://holopin.io/@shashashankthakur)
