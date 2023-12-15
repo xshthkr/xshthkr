@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashashankThakur
 - 👀 I’m interested in system architecture
-- 🌱 I’m currently learning about encryption
+- 🌱 I’m currently learning about cryptography
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/shashashank) or [Instagram](https://www.instagram.com/shashashankthakur/)
 
