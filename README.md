@@ -7,22 +7,23 @@
 
 <div align="center">
     <a href="www.linkedin.com/in/shashashank">
-        <img src="https://skillicons.dev/icons?i=linkedin">
+        <img height="32" src="https://skillicons.dev/icons?i=linkedin">
     </a>
     &nbsp;
     <a href="https://discordapp.com/users/719167134256594975">
-        <img src="https://skillicons.dev/icons?i=discord">
+        <img height="32" src="https://skillicons.dev/icons?i=discord">
     </a>
     &nbsp;
     <a href="https://www.instagram.com/shashashankthakur/">
-        <img src="https://skillicons.dev/icons?i=instagram">
+        <img height="32" src="https://skillicons.dev/icons?i=instagram">
     </a>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,tailwindcss,python,c,cpp,bash,mysql,git,github,linux,unity,godot,unreal,arduino,ros,matlab,vscode,vim,latex&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,tailwindcss,python,c,cpp,bash,mysql,git,github,linux,unity,godot,unreal,arduino&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ros,matlab,vscode,vim,latex" />
 </div>
 
 
