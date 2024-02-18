@@ -23,9 +23,9 @@
 ---
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,tailwindcss,python,c,cpp,bash,mysql,git,github,linux,unity,godot,unreal,arduino&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,tailwindcss,python,c,rust,cpp,bash,mysql,git,github,linux,unity,godot,unreal&perline=10" />
     <br>
-    <img src="https://skillicons.dev/icons?i=ros,matlab,vscode,vim,latex" />
+    <img src="https://skillicons.dev/icons?i=arduino,ros,matlab,vscode,vim,latex" />
 </div>
 
 
