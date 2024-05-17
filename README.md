@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShashashankThakur
-- 👀 I’m interested in system architecture
+- 👀 I’m interested in computer networks
 - 🌱 I’m currently learning about cryptography
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/shashashank), [Discord](https://discordapp.com/users/719167134256594975) and [Instagram](https://www.instagram.com/shashashankthakur/)
@@ -20,14 +20,13 @@
 </div>
 --->
 
----
-
+<!---
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,next,tailwindcss,python,c,rust,cpp,bash,mysql,git,github,linux,unity,godot,unreal&perline=10" />
     <br>
     <img src="https://skillicons.dev/icons?i=arduino,ros,matlab,vscode,vim,latex" />
 </div>
-
+--->
 
 
 
