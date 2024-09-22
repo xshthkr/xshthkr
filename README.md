@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShashashankThakur
-- 👀 I’m interested in computer networks
+- 👀 I’m interested in distributed systems
 - 🌱 I’m currently learning about cryptography
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/shashashank), [Discord](https://discordapp.com/users/719167134256594975) and [Instagram](https://www.instagram.com/shashashankthakur/)
