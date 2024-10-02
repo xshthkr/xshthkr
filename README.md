@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShashashankThakur
+- 👋 Hi, I’m @xshthkr
 - 👀 I’m interested in distributed systems
 - 🌱 I’m currently learning about cryptography
 - 💞️ I’m looking to collaborate on fun projects
