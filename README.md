@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xshthkr
-- 👀 I’m interested in low level programming
+- 👀 I’m interested in cryptography
 - 🌱 I’m currently learning about kernel development
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach out to me on [Discord](https://discordapp.com/users/719167134256594975)
