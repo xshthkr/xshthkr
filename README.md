@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xshthkr
+- 👋 Hi, I’m Shashank
 - 👀 I’m interested in cryptography
 - 🌱 I’m currently learning about kernel development
 - 💞️ I’m looking to collaborate on fun projects
