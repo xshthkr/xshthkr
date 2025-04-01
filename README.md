@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptography
 - 🌱 I’m currently learning about kernel development
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 Reach out to me on [Discord](https://discordapp.com/users/719167134256594975)
+- 📫 Reach out to me through <a href="mailto:u22cs060@coed.svnit.ac.in">u22cs060@coed.svnit.ac.in</a>
 
 <!---
 <div align="center">
